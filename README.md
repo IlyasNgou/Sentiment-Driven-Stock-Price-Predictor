@@ -16,15 +16,15 @@ Key features:
 
 ## Project Structure
 ```
-dashboard/.
-├── app.py.
-├── data/.
-│   └── stock_data_with_sentiment.csv.
-├── models/.
-│   ├── analysis.ipynb.
-│   └── train.py.
-├── sentiment_analysis/.
-│   ├── fetch_sentiment.py.
+dashboard/
+├── app.py
+├── data/
+│   └── stock_data_with_sentiment.csv
+├── models/
+│   ├── analysis.ipynb
+│   └── train.py
+├── sentiment_analysis/
+│   ├── fetch_sentiment.py
 │   ├── nlp_sentiment.py
 │   ├── sentiment.py
 │   └── vader_sentiment.py
