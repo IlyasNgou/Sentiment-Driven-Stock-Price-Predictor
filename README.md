@@ -1,6 +1,6 @@
 # Sentiment-Driven-Stock-Price-Predictor
 
-## StockSentimentKafkaPipeline
+## Stock Sentiment Kafka Pipeline
 
 A real-time data pipeline that fetches stock market data, performs sentiment analysis using Reddit data, and streams the results to Kafka for downstream processing. The project integrates various APIs, including Alpha Vantage for stock data and Reddit (via PRAW) for sentiment analysis.
 
