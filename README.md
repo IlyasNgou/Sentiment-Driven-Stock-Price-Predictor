@@ -32,3 +32,18 @@ Key features:
 ├── docker-compose.yml
 └── producer.py
 ```
+
+## Requirements
+
+1. **Kafka**: Ensure you have a Kafka cluster running locally or remotely.
+2. **Alpha Vantage API**: You'll need to sign up for an API key from [Alpha Vantage](https://www.alphavantage.co/).
+3. **Reddit API (PRAW)**: You'll need to create a Reddit application at [Reddit Developer](https://www.reddit.com/prefs/apps) to obtain the `client_id`, `client_secret`, and `user_agent`.
+4. **PostgreSQL**: (Optional) If you're using the consumer to store data in PostgreSQL, ensure your database is set up correctly.
+
+### Install Dependencies
+
+Install the required Python libraries using `pip`:
+
+```bash
+pip install -r requirements.txt
+
