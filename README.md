@@ -15,7 +15,7 @@ Key features:
 - **Kafka Consumer**: Consumes data from Kafka and stores it in a PostgreSQL database or a CSV file for analysis.
 
 ## Project Structure
-
+```
 dashboard/.
 ├── app.py.
 ├── data/.
@@ -31,4 +31,4 @@ dashboard/.
 ├── consumer.py
 ├── docker-compose.yml
 └── producer.py
-
+```
