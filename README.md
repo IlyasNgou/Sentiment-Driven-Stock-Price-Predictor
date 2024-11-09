@@ -15,18 +15,20 @@ Key features:
 - **Kafka Consumer**: Consumes data from Kafka and stores it in a PostgreSQL database or a CSV file for analysis.
 
 ## Project Structure
+
 dashboard/
-├── app.py                        
+├── app.py
 ├── data/
-│   └── stock_data_with_sentiment.csv  
+│   └── stock_data_with_sentiment.csv
 ├── models/
-│   ├── analysis.ipynb                     
-│   └── train.py                   
+│   ├── analysis.ipynb
+│   └── train.py
 ├── sentiment_analysis/
-│   ├── fetch_sentiment.py         
-│   ├── nlp_sentiment.py           
-│   ├── sentiment.py             
-│   └── vader_sentiment.py         
-├── consumer.py                    
-├── docker-compose.yml                                
-└── producer.py   
+│   ├── fetch_sentiment.py
+│   ├── nlp_sentiment.py
+│   ├── sentiment.py
+│   └── vader_sentiment.py
+├── consumer.py
+├── docker-compose.yml
+└── producer.py
+
