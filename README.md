@@ -16,8 +16,8 @@ Key features:
 
 ## Project Structure
 ```
-dashboard/
-├── app.py
+├──dashboard
+│  └── app.py
 ├── data/
 │   └── stock_data_with_sentiment.csv
 ├── models/
