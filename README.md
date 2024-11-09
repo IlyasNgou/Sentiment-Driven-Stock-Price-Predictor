@@ -8,7 +8,8 @@ A real-time data pipeline that fetches stock market data, performs sentiment ana
 
 This project is designed to capture stock market data in real-time, retrieve sentiment analysis from social media platforms (specifically Reddit), and produce the data through Kafka for further processing or storage.
 
-![Image description](overview.png)
+<img src="overview.png" alt="Project Flow Diagram" width="800"/>
+
 
 Key features:
 - **Stock Data Fetching**: Uses the Alpha Vantage API to fetch historical stock data.
