@@ -65,8 +65,29 @@ Before you begin, ensure you have the following installed on your machine:
 
   1. **Clone the repository**:
 
-  Open a terminal or command prompt and run the following command to clone the repository:
+      Open a terminal or command prompt and run the following command to clone the repository:
+    
+       ```bash
+       git clone https://github.com/IlyasNgou/Sentiment-Driven-Stock-Price-Predictor.git
+       ```
 
-   ```bash
-   git clone https://github.com/IlyasNgou/Sentiment-Driven-Stock-Price-Predictor.git
-   ```
+   2. **Navigate to the project directory**:
+
+       ```bash
+       cd project-name
+       ```
+  ## Installing Dependencies 
+
+  1. **Create a virtual environment (optional but recommended):**
+      ```bash
+      python -m venv venv
+      ```
+  2. **Activate the virtual environment:**
+      ```bash
+      python -m venv venv
+      ```
+  3. **Install required dependencies:**
+      ```bash
+      pip install -r requirements.txt
+      ```     
+
