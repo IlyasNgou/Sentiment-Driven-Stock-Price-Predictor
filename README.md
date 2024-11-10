@@ -58,9 +58,10 @@ Before you begin, ensure you have the following installed on your machine:
 - **Python**: Version 3.7 or higher.
 - **Pip**: Package manager to install dependencies.
 - **Docker** (optional): For containerized setup.
-  ## Cloning the Repository
+  
+## Cloning the Repository
 
-To get a copy of this project up and running locally on your machine, follow these steps:
+ To get a copy of this project up and running locally on your machine, follow these steps:
 
 **Clone the repository**:
 
