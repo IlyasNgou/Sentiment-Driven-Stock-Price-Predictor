@@ -49,4 +49,23 @@ Install the required Python libraries using `pip`:
 
 ```bash
 pip install -r requirements.txt
+```
+## Prerequisites
 
+Before you begin, ensure you have the following installed on your machine:
+
+- **Git**: Version control system to clone the repository.
+- **Python**: Version 3.7 or higher.
+- **Pip**: Package manager to install dependencies.
+- **Docker** (optional): For containerized setup.
+  ## Cloning the Repository
+
+To get a copy of this project up and running locally on your machine, follow these steps:
+
+1. **Clone the repository**:
+
+   Open a terminal or command prompt and run the following command to clone the repository:
+
+ ```bash
+ git clone https://github.com/IlyasNgou/Sentiment-Driven-Stock-Price-Predictor.git
+ ```
