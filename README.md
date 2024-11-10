@@ -89,5 +89,16 @@ Before you begin, ensure you have the following installed on your machine:
   3. **Install required dependencies:**
       ```bash
       pip install -r requirements.txt
-      ```     
+      ```
+   ## Docker Setup 
+
+   1. **Ensure Docker is running** on your machine.
+
+  2. **Build and run the Docker containers**:
+  
+     Run the following command to build and start the containers in detached mode:
+  
+     ```bash
+     docker-compose up -d
+     ```
 
