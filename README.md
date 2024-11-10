@@ -63,10 +63,10 @@ Before you begin, ensure you have the following installed on your machine:
 
  To get a copy of this project up and running locally on your machine, follow these steps:
 
-**Clone the repository**:
+  1. **Clone the repository**:
 
-Open a terminal or command prompt and run the following command to clone the repository:
+  Open a terminal or command prompt and run the following command to clone the repository:
 
- ```bash
- git clone https://github.com/IlyasNgou/Sentiment-Driven-Stock-Price-Predictor.git
- ```
+   ```bash
+   git clone https://github.com/IlyasNgou/Sentiment-Driven-Stock-Price-Predictor.git
+   ```
